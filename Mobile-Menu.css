@@ -1,7 +1,7 @@
 
 .mobile-menu{ 
 padding-left: 0px;
-width: 300px;
+width: 100%;
 }
 
 .mobile-menu li{
@@ -39,7 +39,7 @@ display: none;
   display: block;
   cursor: pointer;
   text-decoration:none;
-  width: 300px;
+  width: 100%;
   background: #575a62;
   border-bottom: 1px solid #353539;
 }
