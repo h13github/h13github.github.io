@@ -52,7 +52,7 @@ display: none;
 }
 
 .menu label img{ margin-top:5px;margin-bottom:5px; margin-left:10px;float:left;}
-.menu ul{margin-top: 0px;}
+.menu ul{margin-top: 0px; clear:both;}
 .menu label p{/*display:inline-block;*/float:left;margin-top:0px;margin-bottom:0px;margin-left:10px;line-height: 40px; color:#fff;}
 
 @media only screen and (max-width: 400px){
